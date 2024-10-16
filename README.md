@@ -33,9 +33,6 @@ Install the dependencies:
 bash
 Copy code
 npm install
-# OR
-yarn install
-Create a .env file in the project root and add your API key from the weather service (e.g., OpenWeatherMap):
 
 bash
 Copy code
